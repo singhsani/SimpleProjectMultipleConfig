@@ -1,0 +1,16 @@
+  MicroService Solution
+  -> Centralized Configuration
+     -> Manage Configuration for Multiple MicroServices in Central Git Repository.
+
+  -> Load Balancing
+     -> Distributed request across active instances of microService Dynamically.
+
+  -> Services Discovery
+     -> Enable Automatic Discovery of microService
+
+  ->Distributed Tracing
+    -> Trace request across microservice.
+  ->EDGE Server
+    -> Single Entry point implement common feature like authentication.
+  ->Fault Tolerance
+    -> Ensure that failer in one microservice does not cascade and make another microservice to fail.

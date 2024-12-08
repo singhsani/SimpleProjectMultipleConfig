@@ -1,0 +1,4 @@
+docker pull postgres:latest
+docker run --name databaseName -e POSTGRES_PASSWORD=databasepassword -d database
+docker container ls #for list of container
+

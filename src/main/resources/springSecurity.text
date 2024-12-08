@@ -1,0 +1,10 @@
+spring security
+
+Filter chain
+1->All request should be Authenticate
+2->If a request is not a web page show
+3-> CSRF-> PUT POST
+
+configuration
+
+bean createion
